@@ -1,2 +1,4 @@
 #!/bin/bash
+mycode = ("My name is Favour and i am a software engineer")
+print(mycode)
 python3 "$PYCODE"
