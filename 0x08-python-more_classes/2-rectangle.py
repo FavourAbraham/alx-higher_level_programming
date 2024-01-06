@@ -6,9 +6,9 @@
 class Rectangle:
 
     """
-    To initialize rectangle:
-    The private instance property: width (int)
-    The private instance property: height (int)
+    initialize rectangle:
+    private instance property: width (int)
+    private instance property: height (int)
     """
     def __init__(self, width=0, height=0):
         
