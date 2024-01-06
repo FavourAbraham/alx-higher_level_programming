@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
-""" Class Rectange """
+""" Class Rectangel """
 
 
 class Rectangle:
+
     """
     initialize rectangle:
     private instance property: width (int)
@@ -44,4 +45,4 @@ class Rectangle:
         self.__height = value
         if value < 0:
             raise ValueError("height must be >= 0")
-        return self.__height 
+        return self.__height
